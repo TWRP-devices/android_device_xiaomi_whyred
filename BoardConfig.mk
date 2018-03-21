@@ -99,3 +99,6 @@ TW_EXCLUDE_SUPERSU := true
 TW_EXTRA_LANGUAGES := true
 TW_IGNORE_MISC_WIPE_DATA := true
 BOARD_SUPPRESS_SECURE_ERASE := true
+
+# set default language chinese
+TW_DEFAULT_LANGUAGE := zh_CN
