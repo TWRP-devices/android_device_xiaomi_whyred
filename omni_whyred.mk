@@ -30,7 +30,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_DEVICE := whyred
 PRODUCT_NAME := omni_whyred
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Xiaomi Redmi Note 5 Pro
+PRODUCT_MODEL := Xiaomi Redmi Note 5 
 PRODUCT_MANUFACTURER := Xiaomi
 
 # enable stock zip packages flash
